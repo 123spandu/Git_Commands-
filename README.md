@@ -42,7 +42,7 @@ Ignoring Patterns
 
 Clone this repository:
 
-git clone https://github.com/your-username/git-cheat-sheet.git
+git clone https://github.com/123spandu/Git_Commands-
 
 
 Open the cheat sheet file (README.md or PDF version).
